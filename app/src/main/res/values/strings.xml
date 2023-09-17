@@ -2,4 +2,7 @@
     <string name="app_name">GitHubSearch</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="saved_user">nome_usuario</string>
+    <string name="ic_share">Share</string>
+    <string name="erro_response">Algo deu errado na chamada da requisic, tente novamente mais tarde</string>
 </resources>

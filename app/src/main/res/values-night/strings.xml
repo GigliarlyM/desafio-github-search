@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="erro_response">Algo deu errado na chamada da requisic, tente novamente mais tarde</string>
+</resources>
